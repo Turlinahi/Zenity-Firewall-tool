@@ -14,7 +14,7 @@ Welcome to the \`Zenity-Firewall-tool\` repository! This Bash script, powered by
 
 1. **Clone the Repository:**
    \`\`\`bash
-   git clone https://github.com/your-username/firewall-manager.git
+   git clone https://github.com/Turlinahi/Zenity-Firewall-tool.git
    \`\`\`
 
 2. **Run the Script:**
@@ -37,10 +37,7 @@ Welcome to the \`Zenity-Firewall-tool\` repository! This Bash script, powered by
 
 If you encounter issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Your feedback is highly appreciated!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Explore, contribute, and enhance your firewall management experience with \`firewall-manager\`!**
+**Explore, contribute, and enhance your firewall management experience with \`Zenity-Firewall-tool\`!**
