@@ -2,8 +2,8 @@
 
 Welcome to the \`Zenity-Firewall-tool\` repository! This Bash script, powered by Zenity, simplifies the management of iptables firewall rules. Whether you're adding custom rules, blocking specific traffic, preventing DDoS attacks, or viewing network statistics, this tool provides an easy-to-use interface for managing your firewall settings.
 
-<iframe width="560" height="315" src="https://github.com/Turlinahi/Zenity-Firewall-tool/assets/133703884/e05d01ad-e177-47c6-afcd-5067bd555f68" frameborder="0" allowfullscreen></iframe>
 
+https://github.com/Turlinahi/Zenity-Firewall-tool/assets/133703884/ad58e265-31c8-4861-94f6-eb44fdbc0232
 
 
 ## Features
