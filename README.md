@@ -26,6 +26,9 @@ Welcome to the \`Zenity-Firewall-tool\` repository! This Bash script, powered by
 3. **Follow the Prompts:**
    Choose from the available actions in the Zenity dialog and follow the prompts to manage your firewall settings.
 
+## Note
+This script was developed on Ubuntu within Oracle VirtualBox.
+
 ## Requirements
 
 - Bash shell
